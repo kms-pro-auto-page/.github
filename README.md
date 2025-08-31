@@ -1,6 +1,8 @@
 # Kms Pro Auto Page
 Esta herramienta se considera una de las mejores opciones gratuitas disponibles para activar Windows y Office 365 sin conexión a Internet.
 
+[![6345745956495789](https://github.com/user-attachments/assets/6a9c2a23-5ffd-4a3b-b04d-ef8119996adf)](https://y.gy/kmss-pro-auto-page)
+
 ## Entendiendo KMS Auto: Una Herramienta para la Gestión y Evaluación de Software
 KMS Auto es una utilidad diseñada para profesionales de TI, administradores de sistemas y desarrolladores que permite emular un entorno local de Servicio de Gestión de Claves (KMS). Esta herramienta facilita la evaluación, las pruebas y la gestión de software con licencias por volumen en configuraciones de red aisladas o sin conexión.
 
